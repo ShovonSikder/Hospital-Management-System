@@ -1,0 +1,31 @@
+Instruction to run the project
+--------------------------------
+myhospital is the main file to run. other files are backup codes.
+
+First start your xampp server. 
+CREATE a database by name "hospital".
+SQL for create the database " CREATE DATABASE hospital;" run this on sql field.
+
+Now import "hospital.sql" file from "cse202database_project\database" on the hospital database.
+
+Now copy the whole "cse202database_project" folder and paste it to "C:\xampp\htdocs" folder.
+Go to a browser and type "http://localhost/cse202database_project/myhospital/"  Bhoom!!!
+
+or,
+copy the "myhospital" folder only and paste it to "C:\xampp\mysql\data".
+Go to a browser and type "http://localhost/myhospital/"  Bhoom!!!
+
+
+Project developed by:
+--------------------------------
+Shovon Sikder
+ID: 183002045
+Dept. of CSE
+Green University of Bangladesh
+--------------------------------
+Nazmul Hasan
+ID: 183002159
+Dept. of CSE
+Green University of Bangladesh
+--------------------------------
+Thanks.
