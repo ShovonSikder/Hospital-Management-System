@@ -79,7 +79,7 @@ if(@$_GET['id']=="del"){
 </a>
        </div>
       
-       <div id="display" style="width:1130px;height: 620px;text-align: left;">
+       <div id="display" style="text-align: left;">
           <div class="win1" style="text-align: left;width:1000px">
             <div id="caption">
                 All Patients Info.

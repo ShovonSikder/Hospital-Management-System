@@ -84,7 +84,7 @@ if(isset($_GET['apdoc']))
 </a>
        </div>
       
-       <div id="display" style="width:1130px;height: 620px;text-align: left;">
+       <div id="display" style="text-align: left;">
             <div class="win1">
                 <div id="caption">My Appointments</div>
                 <?php

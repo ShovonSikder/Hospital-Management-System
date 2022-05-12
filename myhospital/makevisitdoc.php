@@ -48,7 +48,7 @@ if(@$_GET['id']=="vis")
 </a>
        </div>
       
-       <div id="display"style="width:1130px;height: 620px;text-align: left;">
+       <div id="display"style="text-align: left;">
            <div class="win1">
 
            <div id="errorbox" ><center>Insertion failed. Enter valid Patient ID

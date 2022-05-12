@@ -1,23 +1,26 @@
-body{
+html,body{
     background-color: cyan;
     margin: 0px;
+    width: 100%;
+    height: 100%;
 }
 #footer{
     display: inline-block;
     background-color: rgb(160, 69, 33);
-    width: 1366px;
+    width: 100%;
     text-align: center;
 }
 #workplace{
     
     border: solid 1px;
     border-color: rgb(114, 110, 54);
-    
+    width: 100%;
+    height: 100%;
 }
 #menu{
     display: inline-block;
-    width: 200px;
-    height: 590px;
+    width: 14%;
+    height: 95%;
     background-color: rgb(120, 107, 192);
     padding: 4px;
     padding-top: 5px;
@@ -26,8 +29,8 @@ body{
 }
 #display{
    display: inline-block;
-    width: 1000px;
-    height: 580px;
+    width: 85%;
+    height: 100%;
     background-color: cyan;
     vertical-align: top;
     text-align: center; 
@@ -214,8 +217,8 @@ body{
 .win1{
     background-color: cyan;
     display: inline-block;
-    height: 620px;
-    width: 730px;
+    height: 99%;
+    width: 75%;
    text-align: center;
     overflow: scroll;
 }
@@ -223,8 +226,8 @@ body{
     background-color: cyan;
     display: inline-block;
     vertical-align: top;
-    height: 620px;
-    width: 396px;
+    height: 99%;
+    width: 24%;
     text-align: center;
     overflow:scroll;
     
